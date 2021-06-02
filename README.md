@@ -1,1 +1,1 @@
-# videoinpainting
+# video inpainting
