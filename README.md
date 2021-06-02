@@ -9,5 +9,6 @@
 ## 利用3D卷积来进行视频修复  
 以下方法通过利用3D卷积来实现视频修复。  
 
-1.[Video inpainting by jointly learning temporal structure and spatial details.](https://arxiv.org/abs/1806.08482) Wang,C.,Huang,H.,Han,X.,& Wang,J.  `In AAAI 2019`
-2.[Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf) Kim,D.,Woo,S.,Lee,J.Y.,& Kweon,I. S. `In CVPR 2019` 
+1. [Video inpainting by jointly learning temporal structure and spatial details.](https://arxiv.org/abs/1806.08482) Wang,C.,Huang,H.,Han,X.,& Wang,J.  `In AAAI 2019`  
+2. [Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf) Kim,D.,Woo,S.,Lee,J.Y.,& Kweon,I. S. `In CVPR 2019`   
+3. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/pdf/1904.10247.pdf) Ya-Liang Chang,Zhe Yu Liu,Kuan-Ying Lee,Winston Hsu. `In ICCV 2019` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
