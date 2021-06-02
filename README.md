@@ -13,4 +13,9 @@
 2. [Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf) Kim, D., Woo, S., Lee, J.Y., & Kweon, I. S. `In CVPR 2019`   
 3. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/pdf/1904.10247.pdf) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. `In ICCV 2019` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 4. [Learnable Gated Temporal Shift Module for Deep Video Inpainting](https://arxiv.org/pdf/1907.01131.pdf) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. `In BMVC 2019` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
-5. [Proposal-based Video Completion](https://www.cs.utexas.edu/~grauman/papers/eccv2020-hu.pdf) Hu et al. `In ECCV2020`
+5. [Proposal-based Video Completion](https://www.cs.utexas.edu/~grauman/papers/eccv2020-hu.pdf) Hu et al. `In ECCV2020`  
+ 
+## 利用光流场来进行视频修复
+以下方法通过利用光流场来实现视频修复：
+
+1.
