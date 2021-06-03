@@ -26,11 +26,19 @@
 
 ## 利用上下文patch匹配来进行视频修复  
 以下方法通过利用上下文patch匹配来进行视频修复  
+
 1. [Deep Video Inpainting.](https://arxiv.org/pdf/1905.01639.pdf) Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. `In CVPR 2019` [[code]](https://github.com/mcahny/Deep-Video-Inpainting)  
 2. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting.](https://arxiv.org/pdf/1905.13066.pdf) Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. `In Arxiv 2019`  
 3. [Onion-Peel Networks for Deep Video Completion](https://arxiv.org/pdf/1908.08718.pdf) Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim. `In ICCV 2019` [[code]](https://github.com/seoungwugoh/opn-demo)  
 4. [Copy-and-Paste Networks for Deep Video Inpainting](https://arxiv.org/pdf/1908.11587.pdf) Sunho Lee, Seoung Wug Oh, DaeYeun Won, Seon Joo Kim. `In ICCV 2019` [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)  
 5. [Short-Term and Long-Term Context Aggregation Network for Video Inpainting](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf) Li et al. `In ECCV2020`  
 6. [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/pdf/2007.08854.pdf) Liao et al. `In ECCV2020`   
-7. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/pdf/2007.10247.pdf) Zeng et al. `In ECCV2020`   
-8. 
+7. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/pdf/2007.10247.pdf) Zeng et al. `In ECCV2020` [[code]](https://github.com/researchmm/STTN)   
+8. [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/pdf/2104.03507.pdf) Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee. `In CVPR2021` [[code]](https://github.com/MaureenZOU/TSAM)  
+9. [Decoupled Spatial-Temporal Transformer for Video Inpainting](https://arxiv.org/pdf/2104.06637.pdf) Rui Liu, Hanming Deng, Yangyi Huang, Xiaoyu Shi, Lewei Lu, Wenxiu Sun, Xiaogang Wang, Jifeng Dai, Hongsheng Li `In Arxiv 2021` [[code]](https://github.com/ruiliu-ai/DSTT)  
+
+## 数据集
+Video Inpainting的数据集一共有2个：  
+1. [YouTube-VOS](https://youtube-vos.org/)
+2. [DAVIS](https://davischallenge.org/)
+ 
