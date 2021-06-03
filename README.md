@@ -24,8 +24,8 @@
 4. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf) Haotian Zhang, Long Mai, Ning Xu, Zhaowen Wang, John Collomosse, Hailin Jin. `In ICCV 2019`   
 5. [Flow-edge Guided Video Completion](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570698.pdf) Gao et al. `In ECCV2020` [[code]](https://github.com/vt-vl-lab/FGVC)  
 
-## 利用上下文patch匹配来进行视频修复
-  
+## 利用上下文patch匹配来进行视频修复  
+以下方法通过利用上下文patch匹配来进行视频修复  
 1. [Deep Video Inpainting.](https://arxiv.org/pdf/1905.01639.pdf) Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. `In CVPR 2019` [[code]](https://github.com/mcahny/Deep-Video-Inpainting)  
 2. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting.](https://arxiv.org/pdf/1905.13066.pdf) Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. `In Arxiv 2019`  
 3. [Onion-Peel Networks for Deep Video Completion](https://arxiv.org/pdf/1908.08718.pdf) Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim. `In ICCV 2019` [[code]](https://github.com/seoungwugoh/opn-demo)  
