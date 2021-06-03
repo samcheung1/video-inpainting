@@ -1,12 +1,22 @@
 # Video Inpainting  
 视频修复任务是一项旨在用合理的内容填补视频帧中缺失区域的任务。视频修复在各种场景下都有着许多应用，例如将损坏的视频进行修复、将不想要的对象进行删除和视频重定目标等。 
-
+  
+该项任务的一般可以分为非深度学习算法的视频修复和深度学习算法的视频修复两个部分。  
+  
+## 非深度学习算法
+  
+以下方法均是利用非深度学习算法来进行实现的：
+  
+1. 
+  
+## 深度学习算法
+  
 目前的基于深度学习的视频修复工作可以分为三类：  
 **1. 利用3D卷积来进行视频修复**   
 **2. 利用光流场来进行视频修复**    
 **3. 利用上下文patch匹配来进行视频修复** 
 
-## 利用3D卷积来进行视频修复  
+### 利用3D卷积来进行视频修复  
 以下方法通过利用3D卷积来实现视频修复:  
 
 1. [Video inpainting by jointly learning temporal structure and spatial details.](https://arxiv.org/abs/1806.08482) Wang,C., Huang,H., Han, X., & Wang, J.  `In AAAI 2019`  
@@ -15,7 +25,7 @@
 4. [Learnable Gated Temporal Shift Module for Deep Video Inpainting](https://arxiv.org/pdf/1907.01131.pdf) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. `In BMVC 2019` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 5. [Proposal-based Video Completion](https://www.cs.utexas.edu/~grauman/papers/eccv2020-hu.pdf) Hu et al. `In ECCV2020`  
  
-## 利用光流场来进行视频修复
+### 利用光流场来进行视频修复
 以下方法通过利用光流场来实现视频修复：
 
 1. [Deep Flow-Guided Video Inpainting](https://arxiv.org/pdf/1905.02884.pdf) Xu, R., Li, X., Zhou, B., & Loy, C. C. `In CVPR 2019` [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
@@ -24,7 +34,7 @@
 4. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf) Haotian Zhang, Long Mai, Ning Xu, Zhaowen Wang, John Collomosse, Hailin Jin. `In ICCV 2019`   
 5. [Flow-edge Guided Video Completion](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570698.pdf) Gao et al. `In ECCV2020` [[code]](https://github.com/vt-vl-lab/FGVC)  
 
-## 利用上下文patch匹配来进行视频修复  
+### 利用上下文patch匹配来进行视频修复  
 以下方法通过利用上下文patch匹配来进行视频修复  
 
 1. [Deep Video Inpainting.](https://arxiv.org/pdf/1905.01639.pdf) Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. `In CVPR 2019` [[code]](https://github.com/mcahny/Deep-Video-Inpainting)  
