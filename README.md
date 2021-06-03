@@ -2,9 +2,9 @@
 视频修复任务是一项旨在用合理的内容填补视频帧中缺失区域的任务。视频修复在各种场景下都有着许多应用，例如将损坏的视频进行修复、将不想要的对象进行删除和视频重定目标等。 
 
 目前的基于深度学习的视频修复工作可以分为三类：  
-1. 利用3D卷积来进行视频修复  
-2. 利用光流场来进行视频修复  
-3. 利用上下文match匹配来进行视频修复  
+**1. 利用3D卷积来进行视频修复**   
+**2. 利用光流场来进行视频修复**    
+**3. 利用上下文patch匹配来进行视频修复** 
 
 ## 利用3D卷积来进行视频修复  
 以下方法通过利用3D卷积来实现视频修复:  
@@ -18,4 +18,11 @@
 ## 利用光流场来进行视频修复
 以下方法通过利用光流场来实现视频修复：
 
-1.
+1. [Deep Flow-Guided Video Inpainting](https://arxiv.org/pdf/1905.02884.pdf) Xu, R., Li, X., Zhou, B., & Loy, C. C. `In CVPR 2019` [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
+2. [Frame-Recurrent Video Inpainting by Robust Optical Flow Inference](https://arxiv.org/pdf/1905.02882.pdf) Yifan Ding, Chuan Wang, Haibin Huang, Jiaming Liu, Jue Wang, Liqiang Wang. `In Arxiv 2019`  
+3. [VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal](https://arxiv.org/pdf/1904.06726.pdf) Ya-Liang Chang, Zhe Yu Liu, Winston Hsu.` In CVPRW 2019` 
+4. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf) Haotian Zhang, Long Mai, Ning Xu, Zhaowen Wang, John Collomosse, Hailin Jin. `In ICCV 2019`   
+5. [Flow-edge Guided Video Completion](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570698.pdf) Gao et al. `In ECCV2020` [[code]](https://github.com/vt-vl-lab/FGVC)  
+
+## 利用上下文patch匹配来进行视频修复
+
