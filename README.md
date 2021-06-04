@@ -7,7 +7,7 @@
   
 以下方法均是利用非深度学习算法来进行实现的：
   
-1. [Temporally coherent completion of dynamic video.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf) Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J. `In TOG 2016.`  [code](https://github.com/amjltc295/Temporally-Coherent-Completion-of-Dynamic-Video)
+1. [Temporally coherent completion of dynamic video.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf) Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J. `In TOG 2016.`  [[code]](https://github.com/amjltc295/Temporally-Coherent-Completion-of-Dynamic-Video)
   
 ## 深度学习算法
   
