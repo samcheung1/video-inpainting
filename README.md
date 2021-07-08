@@ -43,7 +43,7 @@
 5. [Short-Term and Long-Term Context Aggregation Network for Video Inpainting](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf) Li et al. `In ECCV2020`  
 6. [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/pdf/2007.08854.pdf) Liao et al. `In ECCV2020`   
 7. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/pdf/2007.10247.pdf) Zeng et al. `In ECCV2020` [[code]](https://github.com/researchmm/STTN)   
-8. [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/pdf/2104.03507.pdf) Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee. `In CVPR2021` [[code]](https://github.com/MaureenZOU/TSAM)  
+8. [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/pdf/2104.03507.pdf) Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee. `In CVPR2021` 
 9. [Decoupled Spatial-Temporal Transformer for Video Inpainting](https://arxiv.org/pdf/2104.06637.pdf) Rui Liu, Hanming Deng, Yangyi Huang, Xiaoyu Shi, Lewei Lu, Wenxiu Sun, Xiaogang Wang, Jifeng Dai, Hongsheng Li `In Arxiv 2021` [[code]](https://github.com/ruiliu-ai/DSTT)  
 
 ## 数据集
